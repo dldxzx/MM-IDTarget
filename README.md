@@ -11,7 +11,7 @@ We focus on using end-to-end methods for identifying targets, our overall framew
 ## 📑 Results
 
 ### Downloads
-- All the data involved in MM IDTarget can be downloaded from (link：https://pan.baidu.com/s/1xqsIDXsb0CFIeyyXyzOPag Extracted code：ddv7)
+- All the data involved in MM-IDTarget can be downloaded from (link：https://pan.baidu.com/s/1xqsIDXsb0CFIeyyXyzOPag Extracted code：ddv7)
 - Protein_pdb: The pdb and mutant files in MM-IDTarget formation can be downloaded from the data file (link：https://pan.baidu.com/s/1xqsIDXsb0CFIeyyXyzOPag Extracted code：ddv7)
 - **PDSPKi (778)** and **NPASS (181)** dataset can be found in (link：https://pan.baidu.com/s/1xqsIDXsb0CFIeyyXyzOPag  Extracted code：ddv7)
 
